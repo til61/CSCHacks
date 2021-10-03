@@ -11,11 +11,11 @@ This repo is an example of a team project repository that meets all of [the repo
 
 ## Team Information
 James Rabuzzi 
-*CS
-*2024
-*jar310@pitt.edu
+* CS
+* 2024
+* jar310@pitt.edu
 
 Dan Li
-*CS
-*2023
-*til61@pitt.edu
+* CS
+* 2023
+* til61@pitt.edu
