@@ -9,8 +9,6 @@ This repo is an example of a team project repository that meets all of [the repo
 * Doing this will require learning javascript.
 * We anticipate the following challenges: all the expected challenges surrounding learning a new language, problems with game debugging and just figuring out how an h5 game will work.
 
-=======
-
 ## Team Information
 James Rabuzzi 
 * CS
