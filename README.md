@@ -21,3 +21,8 @@ Dan Li
 * CS
 * 2023
 * til61@pitt.edu
+
+Khailil Tookas
+* DNID
+* 2024
+* kht10@pitt.edu
